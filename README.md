@@ -4,6 +4,8 @@
 
 rxvt-unicode Pyqt5 terminal implementation with less than 20 lines of code.
 
+![simple](https://user-images.githubusercontent.com/29865797/71637276-61015980-2c47-11ea-8f18-fbb615124c14.jpg)
+
 
 
 		Simple Terminal Copyright (c) 2020 JJ Posti <techtimejourney.net> 
@@ -22,11 +24,11 @@ Requires rxvt-unicode to be installed. Can also be named as urxvt depending on a
 
 ### Functionality: 
 
-		Copy with left-clicking and painting the terminal area to copy. Paste with middle-clicking the mouse.
+Copy with left-clicking and painting the terminal area to copy. Paste with middle-clicking the mouse.
 	 
-		Most of the settings come from the supplied Xresources file. 
+Most of the settings come from the supplied Xresources file. 
 		
-		By default scrollbar is disabled. See the supplied Xresources file for more.
+By default scrollbar is disabled. See the supplied Xresources file for more.
 
 		
 If changes are made or resources otherwise need to be reloaded use: 
