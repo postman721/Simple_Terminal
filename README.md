@@ -35,7 +35,7 @@ If changes are made or resources otherwise need to be reloaded use:
 
 		xrdb -load Xresources
 
-It is also recommended to load the Xresources file before running Simple terminal - so that the outlook of its is set correctly. 
+It is also recommended to load the Xresources file before running Simple terminal - so that the outlook will be set correctly. 
 
 
 Executing:
