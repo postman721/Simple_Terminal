@@ -37,7 +37,6 @@ If changes are made or resources otherwise need to be reloaded use:
 
 It is also recommended to load the Xresources file before running Simple terminal - so that the outlook will be set correctly. 
 
-
 Executing:
 
 If needed make executable with:
@@ -47,3 +46,7 @@ If needed make executable with:
 Then run the terminal:
 
 		python simple.py
+
+___________________________________
+Release post is also available at: https://www.techtimejourney.net/simple-terminal-released/
+
